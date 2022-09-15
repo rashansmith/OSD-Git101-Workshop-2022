@@ -16,9 +16,10 @@
 ### Technology Prerequisites:
 - Install Git on your local computer: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - Create a Github Account: www.github.com
-- Connect your Github Account to your local computer via SSH: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
-- Install a Code Editor (VSCode, Sublime Text, Atom, etc)
-- (Optional) Install Github Desktop: https://desktop.github.com/
+- Connect your Github Account to your local computer via SSH Keys: 
+  - Instructions can be found here: https://github.com/rashansmith/OSD-Git101-Workshop-2022/blob/main/setup-ssh-keys.md
+- Have Text Editor Ready (eg. Notepad, NotePad++, TextEdit, VSCode, etc)
+- (Optional) Install GitHub Desktop: https://desktop.github.com/
 
 
 &nbsp;
