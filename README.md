@@ -5,7 +5,7 @@
 &nbsp;
 
 ## Overview
-### This repo was created for the 2022 AnitaB Open Source Day: https://anitab-org.github.io/open-source-day/open-source-day/ workshop, Git 101.
+### This repo was created for the 2022 AnitaB Open Source Day: https://anitab-org.github.io/open-source-day/open-source-day/ workshop, Git 101. Short link: https://bit.ly/osd-git-2022
 
 ### During this workshop, participants will become familiar with Git by contributing to this repo.   
 &nbsp;
@@ -28,6 +28,6 @@
 &nbsp;
 ## Contribution Guide: 
 - https://github.com/rashansmith/OSD-Git101-Workshop-2022/blob/main/CONTRIBUTING.md
-
+- Git cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
 
 
